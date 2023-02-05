@@ -1,4 +1,4 @@
-package com.kraft.tests;
+package com.kraft.tests.JDBCTests;
 
 import com.kraft.utilities.DBUtils;
 import org.testng.annotations.Test;
