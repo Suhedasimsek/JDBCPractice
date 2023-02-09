@@ -1,11 +1,11 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class day2_getRequest {
+public class d2_getRequest {
 
     String kraftUrl = "https://www.krafttechexlab.com/sw/api/v1";
 

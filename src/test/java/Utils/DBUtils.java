@@ -1,4 +1,4 @@
-package com.kraft.utilities;
+package Utils;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -28,7 +28,7 @@ public class DBUtils {
                 resultSet.close();
             }
             if (statement != null) {
-                statement.close();
+                 statement.close();
             }
             if (connection != null) {
                 connection.close();

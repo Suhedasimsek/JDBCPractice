@@ -1,4 +1,4 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -6,7 +6,7 @@ import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class day3_testWithPathMethod {
+public class d3_testWithPathMethod {
 
     //TASK
     //base url = https://gorest.co.in

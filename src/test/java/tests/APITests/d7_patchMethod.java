@@ -1,4 +1,4 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import java.util.HashMap;
 import java.util.Map;
 
-public class day7_patchMethod {
+public class d7_patchMethod {
 
     //PATCH
     //TASK

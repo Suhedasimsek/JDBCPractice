@@ -1,11 +1,11 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
-import com.kraft.tests.APITests.apipojotemplates.Students;
+import tests.APITests.apipojotemplates.Students;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
 
-public class day6_pojo_deserialize_student {
+public class d6_pojo_deserialize_student {
 
     //TASK
     //base url = https://gorest.co.in

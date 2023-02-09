@@ -1,11 +1,10 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
-import com.sun.org.apache.xerces.internal.impl.xpath.regex.Match;
 import io.restassured.RestAssured;
 import org.hamcrest.Matchers;
 import org.testng.annotations.Test;
 
-public class day5_hamcrestmatchersApiTests {
+public class d5_hamcrestmatchersApiTests {
 
     //No TestNG
     //We will be using rest assured assertions(Matchers class) for the verification

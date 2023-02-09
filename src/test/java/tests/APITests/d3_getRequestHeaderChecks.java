@@ -1,4 +1,4 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
@@ -6,7 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class day3_getRequestHeaderChecks {
+public class d3_getRequestHeaderChecks {
 
     @BeforeClass
     public void setUpAPI(){

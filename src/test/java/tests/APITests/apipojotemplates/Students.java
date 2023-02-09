@@ -1,4 +1,4 @@
-package com.kraft.tests.APITests.apipojotemplates;
+package tests.APITests.apipojotemplates;
 
 public class Students {
 

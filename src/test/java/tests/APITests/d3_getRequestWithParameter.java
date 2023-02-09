@@ -1,4 +1,4 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import java.util.HashMap;
 import java.util.Map;
 
-public class day3_getRequestWithParameter {
+public class d3_getRequestWithParameter {
 
     String kraftUrl = "https://www.krafttechexlab.com/sw/api/v1";
 

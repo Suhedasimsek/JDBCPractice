@@ -1,14 +1,14 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
-import com.kraft.tests.APITests.apipojotemplates.Education;
-import com.kraft.tests.APITests.apipojotemplates.User;
+import tests.APITests.apipojotemplates.Education;
+import tests.APITests.apipojotemplates.User;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
 
 import java.util.List;
 
-public class day6_pojo_deserialize_users {
+public class d6_pojo_deserialize_users {
 
     /* TASK
     base url = https://www.krafttechexlab.com/sw/api/v1

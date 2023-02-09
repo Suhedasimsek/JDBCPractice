@@ -1,5 +1,5 @@
 
-package com.kraft.tests.APITests.apipojotemplates;
+package tests.APITests.apipojotemplates;
 
 import javax.annotation.Generated;
 import com.google.gson.annotations.Expose;

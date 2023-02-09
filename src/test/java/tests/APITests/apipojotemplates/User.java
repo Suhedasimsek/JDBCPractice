@@ -1,5 +1,5 @@
 
-package com.kraft.tests.APITests.apipojotemplates;
+package tests.APITests.apipojotemplates;
 
 import java.util.List;
 import javax.annotation.Generated;

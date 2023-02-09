@@ -1,17 +1,16 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
-import com.kraft.tests.APITests.apipojotemplates.PostRegisterClass;
+import tests.APITests.apipojotemplates.PostRegisterClass;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import javax.swing.*;
 import java.util.HashMap;
 import java.util.Map;
 
-public class day7_postMethod {
+public class d7_postMethod {
 
     //POST METHOD
     /*

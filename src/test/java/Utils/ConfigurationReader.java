@@ -1,4 +1,4 @@
-package com.kraft.utilities;
+package Utils;
 
 import java.io.FileInputStream;
 import java.util.Properties;

@@ -1,4 +1,4 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.Map;
 
-public class day4_getAllUsersWithJsonPath {
+public class d4_getAllUsersWithJsonPath {
 
     /*
     //REQUEST

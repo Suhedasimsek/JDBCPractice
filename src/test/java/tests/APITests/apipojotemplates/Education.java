@@ -1,12 +1,12 @@
 
-package com.kraft.tests.APITests.apipojotemplates;
+package tests.APITests.apipojotemplates;
 
 import javax.annotation.Generated;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
 @Generated("jsonschema2pojo")
-public class Education {
+public class  Education {
 
     @SerializedName("id")
     @Expose

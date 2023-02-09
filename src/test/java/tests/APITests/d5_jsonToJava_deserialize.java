@@ -1,4 +1,4 @@
-package com.kraft.tests.APITests;
+package tests.APITests;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
@@ -9,7 +9,7 @@ import org.testng.asserts.SoftAssert;
 import java.util.List;
 import java.util.Map;
 
-public class day5_jsonToJava_deserialize {
+public class d5_jsonToJava_deserialize {
 
     //TASK
     //base url = https://gorest.co.in
